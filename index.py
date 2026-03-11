@@ -4,4 +4,5 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return "我的第一个网站！部署在 Vercel 啦！"
+
+    return "你们好呀！这是Lewis的第一个网站！"
